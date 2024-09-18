@@ -34,5 +34,5 @@ jobs:
               repo: context.repo.repo,
               labels: ['Training']
             })
-      - uses: /actions/my-new-action@main
+      - uses: /actions/my_new_action@main
          
